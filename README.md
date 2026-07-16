@@ -1,4 +1,4 @@
-# QA-repository-Quoin
+# QA-repository
 Software Testing portfolio featuring test plans, test cases, BDD scenarios, bug reports, and QA documentation.
 
 This repository contains software testing documentation created to demonstrate my approach to quality assurance throughout the software development lifecycle.
